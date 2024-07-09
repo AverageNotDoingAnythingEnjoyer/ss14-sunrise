@@ -49,6 +49,7 @@
       - id: WeaponAntiqueLaser
       - id: JetpackCaptainFilled
       - id: MedalCase
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerCaptainFilled
@@ -77,6 +78,7 @@
       - id: MedalCase
       - id: ClothingHeadCaptainHat
       - id: ClothingOuterCoatCaptain
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerCaptainFilledNoLaser
@@ -102,6 +104,7 @@
       - id: RubberStampCaptain
       - id: JetpackCaptainFilled
       - id: MedalCase
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerHeadOfPersonnelFilled
@@ -157,6 +160,7 @@
       - id: AccessConfigurator
       - id: RCD
       - id: RCDAmmo
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerChiefEngineerFilled
@@ -177,6 +181,7 @@
       - id: AccessConfigurator
       - id: RCD
       - id: RCDAmmo
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerChiefMedicalOfficerFilledHardsuit
@@ -200,6 +205,7 @@
       - id: RubberStampCMO
       - id: MedicalTechFabCircuitboard
       - id: BoxEncryptionKeyMedical
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerChiefMedicalOfficerFilled
@@ -220,6 +226,7 @@
       - id: RubberStampCMO
       - id: MedicalTechFabCircuitboard
       - id: BoxEncryptionKeyMedical
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerResearchDirectorFilledHardsuit
@@ -239,6 +246,7 @@
       - id: BoxEncryptionKeyScience
       - id: ClothingHeadsetAltScience
       - id: EncryptionKeyBinary
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerResearchDirectorFilled
@@ -257,6 +265,7 @@
       - id: BoxEncryptionKeyScience
       - id: ClothingHeadsetAltScience
       - id: EncryptionKeyBinary
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerHeadOfSecurityFilledHardsuit
@@ -286,6 +295,7 @@
       - id: BoxEncryptionKeySecurity
       - id: HoloprojectorSecurity
       - id: BookSecretDocuments
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerHeadOfSecurityFilled
@@ -312,6 +322,7 @@
       - id: BoxEncryptionKeySecurity
       - id: HoloprojectorSecurity
       - id: BookSecretDocuments
+      - id: PrinterDocFlatpack # Sunrise-Printer
 
 - type: entity
   id: LockerFreezerVaultFilled
